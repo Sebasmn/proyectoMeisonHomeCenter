@@ -1,3 +1,4 @@
+<?php ob_start('comprimir_pagina'); ?> 
 <!DOCTYPE html>
 <html lang="en">
 
@@ -613,3 +614,11 @@
 </body>
 
 </html>
+<?php
+ob_end_flush(); 
+function comprimir_pagina($buffer) { 
+    $busca = array('/\>[^\S ]+/s','/[^\S ]+\</s','/(\s)+/s'); 
+    $reemplaza = array('>','<','\\1'); 
+    return preg_replace($busca, $reemplaza, $buffer); 
+} 
+?>
