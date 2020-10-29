@@ -211,8 +211,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
+  padding: 200px
 }
 
 #hero:before {
@@ -1079,4 +1079,24 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+/* Puntos de venta - mapa*/
+#map{
+  height: 400px;
+  width: 100%;
+  border-radius: 30px;
+}
+
+
+.btnEnviar {
+  border-color: #E8A100;
+  background-color: #E8A100;
+  color: #fff;
+  box-shadow: 0 0 40px 40px #C19612 inset, 0 0 0 0 #E8A100;
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+  border-radius: 30px;
+}
+.btnEnviar:hover {
+  box-shadow: 0 0 10px 0 #C19612 inset, 0 0 10px 4px #E8A100;
 }
