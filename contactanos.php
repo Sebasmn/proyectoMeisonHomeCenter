@@ -38,39 +38,7 @@
   <!-- ======= Mobile nav toggle button ======= -->
   <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
 
-  <!-- ======= Header ======= -->
-  <header id="header">
-    <div class="d-flex flex-column">
-
-      <div class="profile">
-        <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-        <div class="social-links mt-3 text-center">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        </div>
-      </div>
-
-      <nav class="nav-menu">
-        <ul>
-          <li class="active"><a href="inicio.php"><i class="bx bx-star"></i> <span>Inicio</span></a></li>
-          <!--li><a href="#about"><i class="bx bx-id-card"></i> <span>Conócenos</span></a></li-->
-          <!--li><a href="#contact"><i class="bx bxs-tree"></i>Madercentro Bolívar</a></li-->
-          <li><a href="#services"><i class="bx bx-home"></i>Hogar</a></li>
-          <li><a href="#portfolio"><i class="bx bx-book-content"></i> Productos</a></li>
-          <li><a href="#contact"><i class="bx bx-envelope"></i>Graiman</a></li>
-          <li><a href="punto-de-venta.html"><i class="bx bx-map-alt"></i> <span>Puntos de venta</span></a></li>
-          <li><a href="#"><i class="bx bx-bookmarks"></i> <span>Servicios</span></a></li>
-          <li><a href="contactanos.html"><i class="bx bxs-contact"></i> <span>Contáctanos</span></a></li>
-        
-        </ul>
-      </nav><!-- .nav-menu -->
-      <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
-
-    </div>
-  </header><!-- End Header -->
+  <?php include('header.php'); ?>
 
   <!-- ======= Hero Section ======= -->
  
@@ -151,15 +119,7 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>iPortfolio</span></strong>
-      </div>
-      
-    </div>
-  </footer><!-- End  Footer -->
+  <?php include('footer.php'); ?>
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
