@@ -3,7 +3,7 @@
 
       <div class="profile">
        <a href="index.html"><img  src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle"></a> 
-      <br> <!-- eslogan <h1 class="text-light"><a href="index.php">Todo para tu hogar</a></h1> --> 
+       <h1 class="text-light"><a href="index.php">Eslogan</a></h1>
        <!-- <h1 class="text-light"><a href="index.html"></a></h1>-->
         <div class="social-links mt-3 text-center">
           <!--a href="#" class="twitter"><i class="bx bxl-twitter"></i></a-->
@@ -16,7 +16,7 @@
 
       <nav class="nav-menu">
         <ul>
-          <li class="active"><a href="inicio.php"><i class="bx bx-star"></i> <span>Inicio</span></a></li>
+          <li><a href="inicio.php"><i class="bx bx-star"></i> <span>Inicio</span></a></li>
           <!--li><a href="#about"><i class="bx bx-id-card"></i> <span>Conócenos</span></a></li-->
           <!--li><a href="#contact"><i class="bx bxs-tree"></i>Madercentro Bolívar</a></li-->
           <li><a href="#services"><i class="bx bx-home"></i>Hogar</a></li>

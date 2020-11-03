@@ -38,7 +38,7 @@
   <!-- ======= Mobile nav toggle button ======= -->
   <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
 
-  <?php include('header1.php'); ?>
+  <?php include('header.php'); ?>
 
   <!-- ======= Hero Section ======= -->
  
