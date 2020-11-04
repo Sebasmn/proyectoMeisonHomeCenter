@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>MeisonHomeCenter - Punto de venta</title>
+  <title>iPortfolio Bootstrap Template - Index</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -38,6 +38,7 @@
 
   <!-- ======= Mobile nav toggle button ======= -->
   <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
+
   <?php include('header.php'); ?>
 
   <!-- ======= Hero Section ======= -->
@@ -45,26 +46,31 @@
 
   <main id="main">
 
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+   
       <div class="container">
-        <div id="map"></div>
+            <div class="section-title">
+          <h2>Punto de venta</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+           <div id="map"></div>
+          
       </div>
-    </section><!-- End Testimonials Section -->
-
-    
-
+      
+    </section><!-- End Portfolio Section -->
+     <?php include('footer.php'); ?>
   </main><!-- End #main -->
 
-  <?php include('footer.php'); ?>
+ 
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
   <!-- Vendor JS Files -->
-    <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
- 
+  <script src="assets/vendor/php-email-form/validate.js"></script>
   <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
   <script src="assets/vendor/counterup/counterup.min.js"></script>
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
@@ -73,7 +79,6 @@
   <script src="assets/vendor/typed.js/typed.min.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/js/mapa.js"></script>
-
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
 

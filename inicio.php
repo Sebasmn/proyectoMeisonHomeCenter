@@ -523,10 +523,19 @@
 
       </div>
     </section><!-- End Contact Section -->
-
+    <div id="foot">
+    <div class="containerF" >
+            <div class="copyright">
+              <center>
+              &copy; 2020 <strong><span>Meison HomeCenter</span></strong>
+              </center>
+            </div>
+    </div>
+    </div>
   </main><!-- End #main -->
 
-  <?php include('footer.php'); ?>
+  
+ 
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 

@@ -70,18 +70,11 @@
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <!--  <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>-->
-          
+        
             <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
             <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
             <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
-            <button src="portfolio-details.html" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+            <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
 
           </div>
           </div>
@@ -93,78 +86,73 @@
             <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
             <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
             <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
-            <button src="assets/img/portfolio/portfolio-2.jpg" style="color:  #E3B80A; position: absolute;  background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+            <button href="https://trabajoweb.tk/productos/producto.php" style="color:  #E3B80A; position: absolute;  background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
 
           </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
+            
+            <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
+              <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
+              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+
             </div>
+           
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
+          <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
+              <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
+              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
+          <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
+              <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
+              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
+          <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
+              <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
+              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
+          <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
+              <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
+              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
+          <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
+              <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
+              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
+          <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
+              <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
+              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+
             </div>
           </div>
 
