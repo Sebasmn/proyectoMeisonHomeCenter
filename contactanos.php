@@ -12,7 +12,6 @@
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
@@ -47,68 +46,76 @@
   
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
+      
       <div class="container">
-
-        <div class="section-title">
-          <h2>Contact</h2>
+      <div class="section-title">
+      <center>   
+      <h2>Contáctanos</h2>
+      </center>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
-        <div class="row" data-aos="fade-in">
+        <div class="row justify-content-center" data-aos="fade-up">
 
-          <div class="col-lg-5 d-flex align-items-stretch">
+          <div class="col-lg-10">
+
             <div class="info">
-              <div class="address">
-                <i class="icofont-google-map"></i>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
-              </div>
+              <div class="row">
+                <div class="col-lg-4 info">
+                  <i class="icofont-google-map"></i>
+                  <h4>Dirección:</h4>
+                  <p>Av. Victor Hugo y<br>Batalla de Pichincha</p>
+                </div>
 
-              <div class="email">
-                <i class="icofont-envelope"></i>
-                <h4>Email:</h4>
-                <p>info@example.com</p>
-              </div>
+                <div class="col-lg-4 info mt-4 mt-lg-0">
+                  <i class="icofont-envelope" style="background-color:#F59514"></i>
+                  <h4>Email:</h4>
+                  <p>info@example.com<br>contact@example.com</p>
+                </div>
 
-              <div class="phone">
-                <i class="icofont-phone"></i>
-                <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <div class="col-lg-4 info mt-4 mt-lg-0">
+                  <i class="icofont-phone"></i>
+                  <h4>Call:</h4>
+                  <p>0980582796</p>
+                </div>
               </div>
-             </div>
+            </div>
 
           </div>
 
-          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+        </div>
+
+        <div class="row mt-5 justify-content-center" data-aos="fade-up">
+          <div class="col-lg-10">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="form-row">
-                <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
-                  <input type="text" name="name" class="form-control" id="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                <div class="col-md-6 form-group">
+                  <input type="text" name="nombre" class="form-control" id="nombre" placeholder="Ingrese su nombre" data-rule="minlen:3" data-msg="Porfavor ingrese su nombre" />
                   <div class="validate"></div>
                 </div>
-                <div class="form-group col-md-6">
-                  <label for="name">Your Email</label>
-                  <input type="email" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" />
+                <div class="col-md-6 form-group">
+                  <input type="text" class="form-control" name="telefono" id="telefono" placeholder="Ingrese su teléfono" data-rule="minlen:10" data-msg="Porfavor ingrese un número de teléfono válido" onkeypress="if(even.keycode<45 || event.keycode>57) event.returnValue=false;"/>
                   <div class="validate"></div>
                 </div>
               </div>
               <div class="form-group">
-                <label for="name">Subject</label>
-                <input type="text" class="form-control" name="subject" id="subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                <input type="email" class="form-control" name="email" id="email" placeholder="Ingrese su email" data-rule="email" data-msg="Porfavor ingrese un email válido" />
+                  <div class="validate"></div>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" name="asunto" id="asunto" placeholder="Ingrese el asunto" data-rule="minlen:4" data-msg="Porfavor ingrese el asunto, mínimo 8 caracteres" />
                 <div class="validate"></div>
               </div>
               <div class="form-group">
-                <label for="name">Message</label>
-                <textarea class="form-control" name="message" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
+                <textarea class="form-control" name="mensaje" rows="5" data-rule="required" data-msg="Porfavor digite su mensaje" placeholder="Mensaje"></textarea>
                 <div class="validate"></div>
               </div>
               <div class="mb-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <div class="sent-message">Su mensaje se ha enviado exitosamente. Gracias!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Enviar</button></div>
             </form>
           </div>
 
@@ -116,10 +123,12 @@
 
       </div>
     </section><!-- End Contact Section -->
+<!-- End Contact Section -->
+      <?php include('footer.php'); ?>
 
   </main><!-- End #main -->
 
-  <?php include('footer.php'); ?>
+ 
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 

@@ -74,7 +74,7 @@
             <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
             <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
             <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
-            <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+            <button onclick="location.href='https://trabajoweb.tk/productos/producto.php'" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
 
           </div>
           </div>
@@ -86,7 +86,7 @@
             <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
             <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
             <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
-            <button href="https://trabajoweb.tk/productos/producto.php" style="color:  #E3B80A; position: absolute;  background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+            <button  onclick="location.href='https://trabajoweb.tk/productos/producto.php'" style="color:  #E3B80A; position: absolute;  background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
 
           </div>
           </div>
@@ -96,7 +96,7 @@
             <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
-              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+              <button  onclick="location.href= 'https://trabajoweb.tk/productos/producto.php'" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
 
             </div>
            
@@ -106,7 +106,7 @@
           <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
-              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+              <button onclick="location.href= 'https://trabajoweb.tk/productos/producto.php'" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
 
             </div>
           </div>
@@ -115,7 +115,7 @@
           <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
-              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+              <button  onclick="location.href= 'https://trabajoweb.tk/productos/producto.php'" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
 
             </div>
           </div>
@@ -124,7 +124,7 @@
           <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
-              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+              <button  onclick="location.href= 'https://trabajoweb.tk/productos/producto.php'" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
 
             </div>
           </div>
@@ -133,7 +133,7 @@
           <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
-              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+              <button  onclick="location.href= 'https://trabajoweb.tk/productos/producto.php'" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
 
             </div>
           </div>
@@ -142,7 +142,7 @@
           <div class="contenedor" style="position: relative; display: inline-block;   text-align: center;">
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <!--a id="prueba" href="portfolio-details.html" style=" position: absolute; background-color:lightslategrey; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Centrado</a-->
-              <button href="https://trabajoweb.tk/productos/producto.php" style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
+              <button  onclick="location.href= 'https://trabajoweb.tk/productos/producto.php'"style=" color: white; position: absolute; background-color:transparent; border-color: #C19612; top: 50%; left: 50%; transform: translate(-50%, -50%);">Prueba</button>
 
             </div>
           </div>
@@ -157,13 +157,14 @@
           </div>
 
         </div>
-
+      
+     
       </div>
     </section><!-- End Portfolio Section -->
-
+     <?php include('footer.php'); ?>
   </main><!-- End #main -->
 
-  <?php include('footer.php'); ?>
+ 
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
