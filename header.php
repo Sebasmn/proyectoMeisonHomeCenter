@@ -20,7 +20,7 @@
           <li><a href="http://meisonhomecenter.com/inicio.php"><i class="bx bx-star"></i><span>Inicio</span></a></li>
           <li><a href="http://meisonhomecenter.com/productos.php"><i class="bx bx-book-content"></i> <span>Productos</span></a></li>
           <li><a href="#"><i class="bx bx-bookmarks"></i>Servicios</a></li>
-          <li><a href="http://meisonhomecenter.com/punto-de-venta.php"><i class="bx bx-map-alt"></i> <span>Puntos de venta</span></a></li>
+          <li><a href="http://meisonhomecenter.com/ubicacion.php"><i class="bx bx-map-alt"></i> <span>Ubicación</span></a></li>
           <li><a href="http://meisonhomecenter.com/contactanos.php"><i class="bx bxs-contact"></i><span>Contáctanos</span></a></li>
           <li><a href="#"><i class="bx bx-id-card"></i><span> Graiman</span></a></li>
           <li><a href="#"><i class="bx bxs-tree"></i><span>Madercentro Bolívar</span></a></li>
