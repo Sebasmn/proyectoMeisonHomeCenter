@@ -23,14 +23,12 @@
   // Smooth scroll for the navigation menu and links with .scrollto classes
   $(document).on('click', '.nav-menu a, .scrollto', function(e) {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
-     
+      e.preventDefault();
       var target = $(this.hash);
       if (target.length) {
-        e.preventDefault();
-        var scrollto = target.offset().top - scrolltoOffset;
-       if($(this).attr("href")=='#header'){
-        scrollto=0;
-       }
+
+        var scrollto = target.offset().top;
+
         $('html, body').animate({
           scrollTop: scrollto
         }, 1500, 'easeInOutExpo');
@@ -43,7 +41,6 @@
         if ($('body').hasClass('mobile-nav-active')) {
           $('body').removeClass('mobile-nav-active');
           $('.mobile-nav-toggle i').toggleClass('icofont-navigation-menu icofont-close');
-          $('.mobile-nav-overly').fadeOut();
         }
         return false;
       }
@@ -55,7 +52,7 @@
     if (window.location.hash) {
       var initial_nav = window.location.hash;
       if ($(initial_nav).length) {
-        var scrollto = $(initial_nav).offset().top ;
+        var scrollto = $(initial_nav).offset().top;
         $('html, body').animate({
           scrollTop: scrollto
         }, 1500, 'easeInOutExpo');
